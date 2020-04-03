@@ -67,6 +67,11 @@ header .social-nav {
   border: 4px solid white;
 }
 
+.social-nav .sn-website4 {
+  background: url('./images/globe.svg') no-repeat 50% 50%;
+  background-color: rgb(36, 242, 29);
+}
+
 .social-nav .sn-website3 {
   background: url('./images/globe.svg') no-repeat 50% 50%;
   background-color: #1DA1F2;
