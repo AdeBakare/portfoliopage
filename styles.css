@@ -67,13 +67,13 @@ header .social-nav {
   border: 4px solid white;
 }
 
-.social-nav .sn-twitter {
-  background: url('./images/twitter.svg') no-repeat 50% 50%;
+.social-nav .sn-website3 {
+  background: url('./images/globe.svg') no-repeat 50% 50%;
   background-color: #1DA1F2;
 }
 
-.social-nav .sn-instagram {
-  background: url('./images/instagram.svg') no-repeat 50% 50%;
+.social-nav .sn-website2 {
+  background: url('./images/globe.svg') no-repeat 50% 50%;
   background-color: #E1306C;
 }
 
